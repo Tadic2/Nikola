@@ -1,0 +1,93 @@
+
+
+
+@media screen and (max-width: 1200px){
+ .how-it-works-section img{
+    width: 600px;
+ }
+.main-cta-btn{
+font-size: 10px;
+}
+
+.service-item img {
+    width: 340px;
+}
+.hero-section{
+    padding-bottom: 49px;
+}
+.hero-section h1{
+    font-size: 48px;
+}
+footer h4 {
+    font-size: 1rem;
+}
+}
+
+
+
+
+
+@media screen and (max-width: 992px){
+    .service-item img {
+width: 200px;
+    }
+    .hero-section{
+        padding-bottom: 0px;
+    }
+    footer h4 {
+        font-size: 0.8rem;
+    }
+    footer ul li a {
+    font-size: 0.5rem;
+    }
+    
+  
+}
+
+
+
+
+    @media screen and (max-width: 768px){
+        .col-md-8 {
+            flex: 0 0 auto;
+            width: 66.66666667%;
+        }
+        .main-nav .main-manu li a{
+            font-size: 10px;
+        }
+        .col-md-6{
+            font-size: 10px;
+        }
+        .pre-header{
+            height: 90px;
+        }
+        .col-md-3{
+            padding: 10px;
+        }
+        .how-it-works-section img{
+            width: 300px;
+         }
+         .hero-section h1{
+            font-size: 36px;
+            margin-bottom: 5px;
+         }
+      
+        }   
+        @media screen and (max-width: 557px){
+            .hero-section h1 {
+                font-size: 10px;
+            }
+            .hero-section p{
+                font-size: 10px;
+            }
+            .hero-section{
+                padding-top: 53px;
+            }
+            footer h4 {
+                font-size: 1.5rem;
+            }
+            footer ul li a {
+            font-size: 0.8rem;
+            }
+        }
+
